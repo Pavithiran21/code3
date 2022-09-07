@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+.images{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png);
+    background-size: cover;
+    height: 577px;
+    width: 344px;
+    margin: auto;
+    
+}
+.box{
+    position: absolute;
+    background-color: white;
+    bottom: -33px;
+    width: 344px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+h2{
+    color: #5752ab;
+    margin-left: 15px;
+}
+p{
+    color: #323f4b;
+    margin-left: 15px;
+}
+.btn-1{
+    border:1px solid #d7dfe9;
+    color:#171f46 ;
+    border-radius: 3px;
+    margin-left: 15px;
+    height: 30px;
+    width: 116px;
+    text-align: center;
+    background-color:#ffffff;
+    border-radius: 6px;
+}
+.btn-2{
+    border:1px solid #d7dfe9;
+    height: 30px;
+    width: 116px;
+    text-align: center;
+    color:white;
+    background-color:#171f46 ;
+    border-radius: 6px;
+}
